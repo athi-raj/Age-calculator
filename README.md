@@ -5,9 +5,10 @@ The logic takes into account adjustments for day and month differences, making t
 
 
 
-📌 Features</br>
+<h2>📌 Features</br></h2>
 Calculates age in years, months, and days</br>
 Handles real-world conditions like:
+
 * Birth day > current day</br>
 
 * Birth month > current month</br>
@@ -16,8 +17,9 @@ Handles real-world conditions like:
 
 
 
-🛠️ How It Works</br>
+<h2>🛠️ How It Works</br></h2>
 The program works by following two key rules:
+
 * If the birth date is greater than the current date, it "borrows" days from the previous month to ensure proper subtraction.
 
 * If the birth month is greater than the current month, it "borrows" a year and adds 12 to the current month.
