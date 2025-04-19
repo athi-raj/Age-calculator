@@ -1,4 +1,4 @@
-<h`>🧮 Java Age Calculator</h1>
+<h1>🧮 Java Age Calculator</h1>
 
 This is a simple Java program to calculate a person’s exact age in years, months, and days based on their birth date and the current date.</br>
 The logic takes into account adjustments for day and month differences, making the result more accurate even if the current day or month is earlier than the birth day/month.
