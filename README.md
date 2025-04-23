@@ -16,7 +16,6 @@ Handles real-world conditions like:
 
 
 
-
 <h2>🛠️ How It Works</br></h2>
 The program works by following two key rules:
 
